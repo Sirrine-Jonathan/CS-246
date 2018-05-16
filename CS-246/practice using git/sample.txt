@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 This is some amazing sample text.
 We got the merge conflict under wraps.
-=======
-This is some amazing sample text!
-There may be a merge conflict soon.
->>>>>>> 9ed50e4addac5c0639fe43f9701d0538fc822ec2
+
